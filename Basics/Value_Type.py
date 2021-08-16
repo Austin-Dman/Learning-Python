@@ -11,7 +11,8 @@ def Value_check(val):
 def is_even(val):
     if (val % 2) ==0:
         return True
-    else return False
+    else:
+        return False
 
 v = " " 
 
